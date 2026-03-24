@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: avaines/blog_gh_sha_pinning_action@7d6ad4affc79375ac049e2f4101d09f0fb5f4319 #1.0.0
+      - uses: avaines/blog_gh_sha_pinning_action@465f0de6b799d33f256ab62c8e5b03032120bfe2 #1.0.1
