@@ -8,4 +8,4 @@ jobs:
       - uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 #v4.3.0
 
       # This is pinned to vainesorg/blog_gh_sha_pinning_action
-      - uses: vainesorg/blog_gh_sha_pinning_action@7d6ad4affc79375ac049e2f4101d09f0fb5f4319 # 1.0.0
+      - uses: vainesorg/blog_gh_sha_pinning_action@92865a716cffd1ba7d6d418cb1f4e9c770361d50 # 1.0.1
