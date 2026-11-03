@@ -5,7 +5,7 @@ jobs:
   demo:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 #v4.3.0
+      - uses: actions/checkout@v4.3.0
 
       # This is pinned to vainesorg/blog_gh_sha_pinning_action
-      - uses: vainesorg/blog_gh_sha_pinning_action@92865a716cffd1ba7d6d418cb1f4e9c770361d50 # 1.0.1
+      - uses: vainesorg/blog_gh_sha_pinning_action@1.0.0

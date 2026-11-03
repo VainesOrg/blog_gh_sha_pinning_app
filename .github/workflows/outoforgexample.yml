@@ -5,8 +5,8 @@ jobs:
   demo:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 #v4.3.0
+      - uses: actions/checkout@v4.3.0
 
       # This is pinned to EXTERNAL/blog_gh_sha_pinning_action
       # Malicious commit, note action owner, this should fail
-      - uses: aidenvaines-cgi/blog_gh_sha_pinning_action@6d7ec8077aaa08741e1b1ed6c014b3cdcafa894f
+      - uses: aidenvaines-cgi/blog_gh_sha_pinning_action@7d6ad4affc79375ac049e2f4101d09f0fb5f4319
