@@ -8,16 +8,16 @@ workflows:
         - 'vainesorg/blog_gh_sha_pinning_action@1.0.0'
     '.github/workflows/outoforgexample.yml':
         - 'actions/checkout@v4.3.0'
-        - 'aidenvaines-cgi/blog_gh_sha_pinning_action@7d6ad4affc79375ac049e2f4101d09f0fb5f4319'
+        - 'aidenvaines-cgi/blog_gh_sha_pinning_action@main'
 dependencies:
     'actions/checkout@v4.3.0':
         ref: 'v4.3.0'
         commit: 'sha1-08eba0b27e820071cde6df949e0beb9ba4906955'
         owner_id: 44036562
         repo_id: 197814629
-    'aidenvaines-cgi/blog_gh_sha_pinning_action@7d6ad4affc79375ac049e2f4101d09f0fb5f4319':
+    'aidenvaines-cgi/blog_gh_sha_pinning_action@main':
         ref: 'main'
-        commit: 'sha1-7d6ad4affc79375ac049e2f4101d09f0fb5f4319'
+        commit: 'sha1-6cb126189918e8c86d0d3ec856d698f97c9e4bda'
         owner_id: 54067008
         repo_id: 1327103683
     'vainesorg/blog_gh_sha_pinning_action@1.0.0':
