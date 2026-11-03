@@ -17,6 +17,6 @@ dependencies:
         repo_id: 197814629
     'vainesorg/blog_gh_sha_pinning_action@1.0.0':
         ref: '1.0.0'
-        commit: 'sha1-7d6ad4affc79375ac049e2f4101d09f0fb5f4319'
+        commit: 'sha1-6cb126189918e8c86d0d3ec856d698f97c9e4bda'
         owner_id: 272011535
         repo_id: 1190388706
