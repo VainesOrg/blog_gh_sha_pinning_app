@@ -9,4 +9,4 @@ jobs:
 
       # This is pinned to EXTERNAL/blog_gh_sha_pinning_action
       # Malicious commit, note action owner, this should fail
-      - uses: aidenvaines-cgi/blog_gh_sha_pinning_action@main
+      - uses: VainesOrg/blog_gh_sha_pinning_action@1.0.0
